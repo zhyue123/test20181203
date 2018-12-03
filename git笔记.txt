@@ -1,0 +1,11 @@
+git clone xxx
+cd xxx  //去当前目录下的xxx文件夹
+git branch 检查分支
+git status 检查状态
+git checkout origin/branch123 -b branch123  //拉取远程分支并建立本地新分支与之关联
+git checkout xxx（分支）
+ls 当前文件下有什么
+git add xxx.java  添加新文件到缓存区
+git commit -am "xxx" 提交到本地版本管理
+git push 推送到远程分支
+git pull
